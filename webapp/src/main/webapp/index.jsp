@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>this is nkins magic</h1>
+    <h1>this is jenkins magic</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>yourname</b></label> 
+    <label for="Name"><b>yourname please</b></label> 
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
